@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="uzbek" size="1.000000 1.413844" />
+    <ImageTarget name="usa" size="1.000000 1.461194" />
+    <ImageTarget name="BY" size="1.000000 1.431452" />
+    <ImageTarget name="ukrain" size="1.000000 1.323611" />
+    <ImageTarget name="pasport" size="1.000000 1.456204" />
+  </Tracking>
+</QCARConfig>
